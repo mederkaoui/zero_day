@@ -1,1 +1,1 @@
-#This file is belong to the project zero_day in the path learning with ALX
+#This file is belong to the 0x00-vagrant directory inside the zero_day repository
